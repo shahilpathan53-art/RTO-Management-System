@@ -1,22 +1,24 @@
-# 🚦 RTO Management System
+# 🚦 RTO Management System (MERN Stack)
 
 ## 📌 Description
-A web-based RTO (Regional Transport Office) Management System designed to manage vehicle registration, driving licenses, and administrative operations efficiently.
+A full-stack RTO (Regional Transport Office) Management System developed using the MERN stack (MongoDB, Express.js, React, Node.js). The application is designed to streamline vehicle registration, driving license management, and administrative processes through a secure and user-friendly interface.
 
 ## 🚀 Tech Stack
-- Frontend: HTML, CSS, Bootstrap
-- Backend: (add if any: PHP / Node.js)
-- Database: (MySQL / MongoDB)
+- Frontend: React, HTML, CSS, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB
 
 ## ⚙️ Features
+- User Registration & Authentication
 - Vehicle Registration Management
-- Driving License Management
-- User/Admin Panel
-- Data Management System
-- Responsive UI
+- Driving License Application & Management
+- Admin Dashboard for managing users and records
+- Secure RESTful API integration
+- Responsive and intuitive UI
 
 ## ▶️ Run Project
-(mention steps based on your project)
 
-## 👨‍💻 Author
-- Shahil Pathan
+### 🔹 Frontend (React)
+```bash
+npm install
+npm run dev
